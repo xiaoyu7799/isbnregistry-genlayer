@@ -1,0 +1,27 @@
+{
+  "network": "Stable Studionet",
+  "chainId": 61999,
+  "rpcUrl": "https://studio.genlayer.com/api",
+  "contractAddress": "0xb560F2C68407DC06430C95a27287d8B3f0564856",
+  "explorer": "https://explorer-studio.genlayer.com/address/0xb560F2C68407DC06430C95a27287d8B3f0564856",
+  "flowAccount": "0xFC4079D97c71D22D56763062e944f7cEc02F0e44",
+  "bookId": 0,
+  "isbn13": "9780134685991",
+  "registerTxHash": "0x02d7be9d10060969d64e2309ce39d5a558829747762818a9ff0542006f94499c",
+  "verifyTxHash": "0x3fad504afffcd1b0b111056f8a1d8533f51624b043e90685e6e191dec1ce70e3",
+  "verifyReceiptStatus": "FINALIZED",
+  "record": {
+    "id": 0,
+    "isbn13": "9780134685991",
+    "requester": "0xFC4079D97c71D22D56763062e944f7cEc02F0e44",
+    "status": "verified",
+    "title": "Effective Java",
+    "publishers": [
+      "Addison-Wesley Professional"
+    ],
+    "publish_date": "December 27, 2017",
+    "number_of_pages": 416,
+    "source_url": "https://openlibrary.org/isbn/9780134685991.json"
+  },
+  "checkedAt": "2026-10-31T09:33:32.980Z"
+}
